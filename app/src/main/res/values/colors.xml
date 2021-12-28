@@ -17,4 +17,6 @@
     <color name="colorPrimaryDark">#431B3F</color>
     <color name="colorAccent">#D81B60</color>
     <color name="orange">#E36642</color>
+    <color name="gris">#DCDCDC</color>
+    <color name="light_grey">#e8ebec</color>
 </resources>
